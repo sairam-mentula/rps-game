@@ -8,6 +8,7 @@ h1 {
     color: #fff;
     height: 5rem;
     line-height: 5rem;
+    width:100%;
 }
 .choice {
    height: 165px; 
